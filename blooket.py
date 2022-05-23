@@ -64,4 +64,5 @@ while(True):
         # //*[@id="app"]/div/div/div[2]/div[2]/div[2]
         # //*[@id="app"]/div/div/div[2]/div[2]/div[3]
         # //*[@id="app"]/div/div/div[2]/div[2]/div[4]
+        #
 driver.quit()
